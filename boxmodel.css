@@ -1,0 +1,36 @@
+/*
+* Madisen Kikut
+* Classwork
+* Box Model
+*/
+
+
+*{
+margin: 0;
+padding: 0;
+}
+
+body {text-align: center;
+background-color: white; 
+border: 5px dotted black;
+padding: 20px;
+}
+
+main {text-align: center;
+background-color: white; 
+border: 3px solid black;
+padding: 10px;
+padding: 30px;
+}
+
+h1 {text-align: center;
+background-color: white;
+border: 3px dotted black;
+padding: 10px;
+}
+
+p {text-align: center;
+background-color: white;
+border: 3px dotted black;
+padding: 10px;
+}
